@@ -7,3 +7,11 @@ $body-bg: #1abc9c;
  
  @import "bootstrap-sprockets";
  @import 'bootstrap';
+
+ .center {
+ 	text-align: center;
+ }
+
+ .navbar-brand {
+ 	font-weight: bolt;
+ }
